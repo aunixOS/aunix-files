@@ -10,5 +10,8 @@ then:
 sudo mkarchiso -v -w /tmp/aunix-tmp ~/aunix-files 
 ```
 this will put the .iso file in ~/out
+## Installing
+the archinstall script is best for now (I am working on getting calamares configured)
+
 ## Issues
 if you have an issue please open an issue, I will get around to it eventually
