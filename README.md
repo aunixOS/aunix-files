@@ -21,4 +21,6 @@ The offical chat (as dictated by me) is at:
 ```
 irc.anonops.com
 ```
-your're gonna have to accept self-signed or invalid certs and the port is 6697
+accept self signed certs or invalid certs
+the port is 6697
+the channel is #aunix (very creative I know)
