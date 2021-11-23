@@ -15,3 +15,10 @@ the archinstall script is best for now (I am working on getting calamares config
 
 ## Issues
 if you have an issue please open an issue, I will get around to it eventually
+
+## Chat
+The offical chat (as dictated by me is at 
+```
+irc.anonops.com
+```
+your're gonna have to accept self-signed or invalid certs and the port is 6697
