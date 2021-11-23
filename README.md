@@ -17,7 +17,7 @@ the archinstall script is best for now (I am working on getting calamares config
 if you have an issue please open an issue, I will get around to it eventually
 
 ## Chat
-The offical chat (as dictated by me is at 
+The offical chat (as dictated by me is at)
 ```
 irc.anonops.com
 ```
