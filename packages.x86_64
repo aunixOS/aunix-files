@@ -1,4 +1,5 @@
 parted
+networkmanager
 alsa
 extra/alsa-utils
 tor
