@@ -1,0 +1,10 @@
+NAME="Aunix"
+PRETTY_NAME="Aunix"
+ID=aunix
+BUILD_ID=rolling
+ANSI_COLOR="38;2;23;147;209"
+HOME_URL="https://github.com/aunixOS/aunix-files/"
+DOCUMENTATION_URL="https://github.com/aunixOS/aunix-files/"
+SUPPORT_URL="https://webchat.anonops.com/"
+BUG_REPORT_URL="https://github.com/aunixOS/aunix-files/"
+LOGO=archlinux-logo
