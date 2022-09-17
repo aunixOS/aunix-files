@@ -84,6 +84,7 @@ nbd
 ndisc6
 nfs-utils
 nilfs-utils
+nitrogen
 nmap
 ntfs-3g
 nvme-cli
@@ -94,6 +95,7 @@ partclone
 parted
 partimage
 pcsclite
+polybar
 ppp
 pptpclient
 pv
