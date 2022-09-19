@@ -20,10 +20,14 @@ Or you can install the pre-made .iso file from the releases page. Remember DO NO
 if you have an issue please open an issue, I will try to get to it as fast as possible
 
 ## Chat
-The offical chat (as dictated by me) is at:
+The offical chat is at:
 ```
 irc.anonops.com
 ```
-accept self signed certs or invalid certs
-the port is 6697
-the channel is #aunix (very creative I know)
+
+
+```
+#aunix
+```
+
+make sure to accept self signed certs or invalid certs and the port is 6697
