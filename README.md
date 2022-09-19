@@ -17,7 +17,7 @@ This operating system is meant to be untracable running from a USB stick, so the
 Or you can install the pre-made .iso file from the releases page. Remember DO NOT INSTALL, it goes against what I am trying to do
 
 ## Issues
-if you have an issue please open an issue, I will get around to it eventually
+if you have an issue please open an issue, I will try to get to it as fast as possible
 
 ## Chat
 The offical chat (as dictated by me) is at:
