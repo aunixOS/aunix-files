@@ -10,6 +10,8 @@ then:
 sudo mkarchiso -v -w /tmp/aunix-tmp ~/aunix-files 
 ```
 this will put the .iso file in ~/out
+
+building from source is broken atm, please use the .iso until I fix it
 ## Installing
 This operating system is meant to be untracable running from a USB stick, so there is no installer on it, please DO NOT INSTALL Aunix onto a computer as this defeats the whole idea of what I am trying to do.
 
