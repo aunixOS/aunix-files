@@ -7,6 +7,8 @@ tor
 firefox
 torbrowser-launcher
 hexchat
+I2P
+i2pd
 xorg
 xorg-xinit
 xorg-server
@@ -53,8 +55,6 @@ grml-zsh-config
 hdparm
 i3
 intel-ucode
-ipw2100-fw
-ipw2200-fw
 iw
 iwd
 jfsutils

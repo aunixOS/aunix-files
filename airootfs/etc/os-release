@@ -1,10 +1,11 @@
 NAME="Aunix"
-PRETTY_NAME="Aunix"
-ID=aunix
+PRETTY_NAME="Anonymous User's Nix"
+ID=aun
 BUILD_ID=rolling
 ANSI_COLOR="38;2;23;147;209"
-HOME_URL="https://github.com/aunixOS/aunix-files/"
-DOCUMENTATION_URL="https://github.com/aunixOS/aunix-files/"
-SUPPORT_URL="https://webchat.anonops.com/"
-BUG_REPORT_URL="https://github.com/aunixOS/aunix-files/"
+HOME_URL="https://github.com/aunixOS/aunix-files"
+DOCUMENTATION_URL="https://wiki.archlinux.org/"
+SUPPORT_URL="https://bbs.archlinux.org/"
+BUG_REPORT_URL="https://github.com/aunixOS/aunix-files/issues"
+PRIVACY_POLICY_URL="https://github.com/aunixOS/aunix-files"
 LOGO=archlinux-logo
